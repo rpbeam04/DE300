@@ -1,0 +1,459 @@
+subject_id,short_title,age_group
+10089,Cont inv mec ven <96 hrs,>=80
+42412,Packed cell transfusion,>=80
+42412,Replace indwelling cath,>=80
+10042,1 int mam-cor art bypass,50-79
+10042,Aortocor bypas-2 cor art,50-79
+10042,Arterial catheterization,50-79
+10042,Cath base invasv ep test,50-79
+10042,Dx ultrasound-heart,50-79
+10042,Extracorporeal circulat,50-79
+10042,Packed cell transfusion,50-79
+10042,Pulsation balloon implan,50-79
+41976,Arterial catheterization,50-79
+41976,Bronch/lung dx proc NEC,50-79
+41976,CV cath plcmt w guidance,50-79
+41976,Cont inv mec ven 96+ hrs,50-79
+41976,Cont inv mec ven <96 hrs,50-79
+41976,Cystoscopy NEC,50-79
+41976,Entral infus nutrit sub,50-79
+41976,Gastroenterostomy NEC,50-79
+41976,Injection oxazolidinone,50-79
+41976,Insert endotracheal tube,50-79
+41976,Op tot intr-abd colectmy,50-79
+41976,Parent infus nutrit sub,50-79
+41976,Percu gastrojejunostomy,50-79
+41976,Permanent ileostomy NEC,50-79
+41976,Reopen recent lap site,50-79
+41976,Replace gastrostomy tube,50-79
+41976,Replace trach tube,50-79
+41976,Resp tract intubat NEC,50-79
+41976,Sm bowel endoscopy NEC,50-79
+41976,Suture of vein,50-79
+41976,Temporary tracheostomy,50-79
+41976,Venous cath NEC,50-79
+10093,Arterial catheterization,>=80
+10093,Cont inv mec ven <96 hrs,>=80
+10093,Insert endotracheal tube,>=80
+10093,Packed cell transfusion,>=80
+10093,Venous cath NEC,>=80
+10102,Packed cell transfusion,50-79
+10102,Parent infus nutrit sub,50-79
+10102,Venous cath NEC,50-79
+10120,Cont inv mec ven 96+ hrs,20-49
+10120,Hemodialysis,20-49
+10120,Other brain dx procedure,20-49
+10120,Packed cell transfusion,20-49
+10120,Platelet transfusion,20-49
+10120,Serum transfusion NEC,20-49
+10120,Transfusion NEC,20-49
+10120,Venous cath NEC,20-49
+10117,Hemodialysis,50-79
+10124,Closed bronchial biopsy,>=80
+10124,Cont inv mec ven 96+ hrs,>=80
+10124,Entral infus nutrit sub,>=80
+10124,Insert endotracheal tube,>=80
+10124,Non-invasive mech vent,>=80
+10124,Open reduc-int fix femur,>=80
+10124,Packed cell transfusion,>=80
+10124,Venous cath NEC,>=80
+10011,Parent infus nutrit sub,20-49
+10011,Venous cath NEC,20-49
+10027,Aortocor bypas-2 cor art,>=80
+10027,Dx ultrasound-heart,>=80
+10027,Extracorporeal circulat,>=80
+10027,Heart countershock NEC,>=80
+10027,Int inser lead atri-vent,>=80
+10027,Int insert dual-cham dev,>=80
+10027,Manual reduc rect prolap,>=80
+10027,Opn/oth rep mtrl vlv-tis,>=80
+10027,Packed cell transfusion,>=80
+10027,Platelet transfusion,>=80
+10027,Serum transfusion NEC,>=80
+10027,Venous cath NEC,>=80
+40687,Non-invasive mech vent,>=80
+40687,Thoracentesis,>=80
+10013,Arterial catheterization,>=80
+42292,Alcohol detoxification,50-79
+10112,Endo polpectomy lrge int,50-79
+10112,Flexible sigmoidoscopy,50-79
+10045,Angio oth non-coronary,50-79
+10045,Cnt intraart bld gas mon,50-79
+10045,Contrast arteriogram-leg,50-79
+10045,Entral infus nutrit sub,50-79
+10045,Fasciotomy,50-79
+10045,Ins non-d-e non-cor stnt,50-79
+10045,Insert 1 vascular stent,50-79
+10045,Lower limb endarterect,50-79
+10045,Packed cell transfusion,50-79
+10045,Parent infus nutrit sub,50-79
+10045,Peripheral nerve graft,50-79
+10045,Permanent ileostomy NEC,50-79
+10045,Platelet transfusion,50-79
+10045,Procedure-two vessels,50-79
+10006,Hemodialysis,50-79
+10006,Injection oxazolidinone,50-79
+10006,Percu abdominal drainage,50-79
+10006,Remov thor ther dev NEC,50-79
+10006,Serum transfusion NEC,50-79
+10006,Ven cath renal dialysis,50-79
+10006,Venous cath NEC,50-79
+43909,Cont inv mec ven <96 hrs,50-79
+42281,Cont inv mec ven 96+ hrs,50-79
+42281,Endosc destruc esoph les,50-79
+42281,Entral infus nutrit sub,50-79
+42281,Packed cell transfusion,50-79
+42281,Percu abdominal drainage,50-79
+42281,Percu endosc gastrostomy,50-79
+42281,Platelet transfusion,50-79
+42281,Rigid proctosigmoidoscpy,50-79
+42281,Serum transfusion NEC,50-79
+42281,Sm bowel endoscopy NEC,50-79
+42281,Venous cath NEC,50-79
+40601,Coronar arteriogr-2 cath,50-79
+40601,Rt/left heart card cath,50-79
+40601,Venous cath NEC,50-79
+40304,Closed bronchial biopsy,50-79
+40304,Lymphatic struct biopsy,50-79
+40304,Mediastinoscopy,50-79
+44083,Entral infus nutrit sub,50-79
+44083,Esophagoscopy NEC,50-79
+44083,Pericardiocentesis,50-79
+44083,Pericardiotomy,50-79
+44083,Removal fb/dev from skin,50-79
+44083,Rt heart cardiac cath,50-79
+44083,Thorac drain pleurl cav,50-79
+44083,Thoracentesis,50-79
+44083,Total gastrectomy NEC,50-79
+10106,Contr cerebr arteriogram,50-79
+10106,Incision of lung,50-79
+10106,Spinal tap,50-79
+10106,Venous cath NEC,50-79
+10035,Angio oth non-coronary,50-79
+10035,Ins non-d-e non-cor stnt,50-79
+43879,Inject into thorax cavit,50-79
+43879,Thorac drain pleurl cav,50-79
+10132,Closed bronchial biopsy,50-79
+10132,Dx ultrasound-heart,50-79
+10132,Inject/infuse NEC,50-79
+10132,Thoracentesis,50-79
+43827,Coronar arteriogr-2 cath,>=80
+43827,Ins nondrug elut cor st,>=80
+43827,Insert 3 vascular stents,>=80
+43827,Lingual thyroid excision,>=80
+43827,PTCA,>=80
+43827,Procedure-one vessel,>=80
+43827,Rt/left heart card cath,>=80
+40277,Larygnoscopy/tracheoscop,>=80
+44154,Cont inv mec ven <96 hrs,>=80
+42066,Cont inv mec ven 96+ hrs,50-79
+42199,Contr cerebr arteriogram,50-79
+42199,Endo rem obs hd/neck ves,50-79
+42199,Inject/inf thrombo agent,50-79
+42199,Procedure-two vessels,50-79
+10046,Oth extraoc mus-tend op,50-79
+10046,Other brain excision,50-79
+10127,Applic ext fix dev-femur,<=19
+10127,Atlas-axis fusion,<=19
+10127,Cl fx reduc-femur,<=19
+10127,Closed bronchial biopsy,<=19
+10127,Entral infus nutrit sub,<=19
+10127,Fus/refus 2-3 vertebrae,<=19
+10127,Incision of lung,<=19
+10127,Interruption vena cava,<=19
+10127,Open reduc-int fix femur,<=19
+10127,Ot cerv fusion post/post,<=19
+10127,Other skeletal traction,<=19
+10127,Packed cell transfusion,<=19
+10127,Percu endosc gastrostomy,<=19
+10127,Remove imp device-femur,<=19
+10127,Skin closure NEC,<=19
+10127,Spinal tap,<=19
+10127,Temporary tracheostomy,<=19
+10127,Venous cath NEC,<=19
+10127,Vertebral fx repair,<=19
+40124,Cont inv mec ven <96 hrs,50-79
+40124,Insert endotracheal tube,50-79
+40124,Other bronchoscopy,50-79
+40124,Thoracentesis,50-79
+10061,Clos large bowel biopsy,50-79
+10061,Cont inv mec ven 96+ hrs,50-79
+10061,Coronar arteriogr-2 cath,50-79
+10061,Egd with closed biopsy,50-79
+10061,Entral infus nutrit sub,50-79
+10061,Parent infus nutrit sub,50-79
+10061,Rt/left heart card cath,50-79
+10061,Venous cath NEC,50-79
+41795,Cont inv mec ven 96+ hrs,20-49
+41795,Entral infus nutrit sub,20-49
+41795,Insert endotracheal tube,20-49
+41795,Sm bowel endoscopy NEC,20-49
+41795,Venous cath NEC,20-49
+41914,Closed bronchial biopsy,50-79
+41914,Cont inv mec ven 96+ hrs,50-79
+41914,Dx ultrasound-heart,50-79
+41914,Electroencephalogram,50-79
+41914,Entral infus nutrit sub,50-79
+41914,Incision of lung,50-79
+41914,Inject antibiotic,50-79
+41914,Insert endotracheal tube,50-79
+41914,Packed cell transfusion,50-79
+41914,Spinal tap,50-79
+41914,Venous cath NEC,50-79
+42231,Nephroureterectomy,>=80
+42231,Periph nerve div NEC,>=80
+42231,Regional lymph node exc,>=80
+42231,Suture of vein,>=80
+10094,Infusion of vasopressor,>=80
+10094,Venous cath NEC,>=80
+10090,Cont inv mec ven <96 hrs,20-49
+10090,Insert endotracheal tube,20-49
+10043,Cont inv mec ven <96 hrs,50-79
+10043,Fiber-optic bronchoscopy,50-79
+10043,Insert endotracheal tube,50-79
+40503,Coronar arteriogr-2 cath,>=80
+40503,Lt heart angiocardiogram,>=80
+40503,Rt/left heart card cath,>=80
+42321,Insert intercostal cath,>=80
+42321,Packed cell transfusion,>=80
+42321,Serum transfusion NEC,>=80
+42321,Venous cath NEC,>=80
+43927,1 int mam-cor art bypass,50-79
+43927,Aortocor bypas-2 cor art,50-79
+43927,Extracorporeal circulat,50-79
+42135,Cont inv mec ven 96+ hrs,20-49
+42135,Entral infus nutrit sub,20-49
+42135,Insert endotracheal tube,20-49
+42135,Parent infus nutrit sub,20-49
+42135,Percu abdominal drainage,20-49
+10044,Radiotherapeut proc NEC,>=80
+10044,Venous cath NEC,>=80
+10029,Contrast arteriogram NEC,50-79
+10029,Contrast myelogram,50-79
+10029,Endosc retro cholangiopa,50-79
+10029,Hemodialysis,50-79
+10029,Infusion of vasopressor,50-79
+10029,Repl stent in bile duct,50-79
+10029,Revis ren dialysis shunt,50-79
+10029,Ven cath renal dialysis,50-79
+40204,Hemodialysis,50-79
+10036,Venous cath NEC,>=80
+10130,Close sm bowel fist NEC,50-79
+10130,Other myectomy,50-79
+10130,Parent infus nutrit sub,50-79
+10130,Percu abdominal drainage,50-79
+10130,Permanent ileostomy NEC,50-79
+10130,Venous cath NEC,50-79
+42033,Coronar arteriogr-2 cath,>=80
+42033,Heart countershock NEC,>=80
+42033,Rt/left heart card cath,>=80
+10111,Cont inv mec ven 96+ hrs,>=80
+10111,Heart countershock NEC,>=80
+10111,Insert endotracheal tube,>=80
+10111,Int inser lead atri-vent,>=80
+10111,Int insert dual-cham dev,>=80
+10111,Non-invasive mech vent,>=80
+10111,Venous cath NEC,>=80
+10065,Enterostomy NEC,50-79
+10065,Entral infus nutrit sub,50-79
+10065,Total gastrectomy NEC,50-79
+40595,Bronch/trach lavage NEC,50-79
+40595,Bronchial dilation,50-79
+40595,Cont inv mec ven <96 hrs,50-79
+40595,Entral infus nutrit sub,50-79
+40595,Fiber-optic bronchoscopy,50-79
+40595,Non-invasive mech vent,50-79
+40595,Other bronchoscopy,50-79
+40595,Parent infus nutrit sub,50-79
+40595,Percu endosc gastrostomy,50-79
+40595,Resp tract intubat NEC,50-79
+40595,Thoracentesis,50-79
+10114,Cont inv mec ven <96 hrs,50-79
+10114,Contr pulmon arteriogram,50-79
+10114,Coronar arteriogr-2 cath,50-79
+10114,Inj/inf platelet inhibit,50-79
+10114,Left heart cardiac cath,50-79
+42346,Dilation of intestine,>=80
+43735,Percu abdominal drainage,>=80
+43735,Venous cath NEC,>=80
+42367,Cont inv mec ven 96+ hrs,>=80
+42367,Ex cereb meningeal les,>=80
+42367,Incise cerebral meninges,>=80
+42367,Insert endotracheal tube,>=80
+42367,Other perm tracheostomy,>=80
+42367,Packed cell transfusion,>=80
+42367,Platelet transfusion,>=80
+42367,Remove ventricle shunt,>=80
+42367,Venous cath NEC,>=80
+10017,Packed cell transfusion,50-79
+10017,Partial shoulder replace,50-79
+10069,Cont inv mec ven 96+ hrs,20-49
+10069,Entral infus nutrit sub,20-49
+10069,Fiber-optic bronchoscopy,20-49
+10069,Incision of lung,20-49
+10069,Insert endotracheal tube,20-49
+10069,Parent infus nutrit sub,20-49
+10069,Spinal tap,20-49
+10069,Venous cath NEC,20-49
+10059,Arterial catheterization,50-79
+10059,Cont inv mec ven 96+ hrs,50-79
+10059,Endosc destruc esoph les,50-79
+10059,Hemodialysis,50-79
+10059,Packed cell transfusion,50-79
+10059,Parent infus nutrit sub,50-79
+10059,Percu abdominal drainage,50-79
+10059,Sm bowel endoscopy NEC,50-79
+10059,Ven cath renal dialysis,50-79
+10059,Venous cath NEC,50-79
+10126,Adm inhal nitric oxide,20-49
+10126,Angio oth non-coronary,20-49
+10126,Closed liver biopsy,20-49
+10126,Contr abd arteriogrm NEC,20-49
+10126,Endosc inser stent bile,20-49
+10126,Entral infus nutrit sub,20-49
+10126,Hemodialysis,20-49
+10126,Inject/infus nesiritide,20-49
+10126,Ins non-d-e non-cor stnt,20-49
+10126,Insert intercostal cath,20-49
+10126,Liver transplant NEC,20-49
+10126,Open liver biopsy,20-49
+10126,Oth endo proc oth vessel,20-49
+10126,Other lacrimal gland ops,20-49
+10126,Parent infus nutrit sub,20-49
+10126,Percu abdominal drainage,20-49
+10126,Temporary tracheostomy,20-49
+10126,Transplant cadaver donor,20-49
+10126,Vasc proc revision NEC,20-49
+10126,Venous cath NEC,20-49
+10088,Arterial catheterization,50-79
+10088,Cont inv mec ven <96 hrs,50-79
+10088,Entral infus nutrit sub,50-79
+10088,Packed cell transfusion,50-79
+10088,Venous cath NEC,50-79
+10074,Contr abd arteriogrm NEC,>=80
+10074,Inject/infuse NEC,>=80
+10074,"Int insert 1-cham, non",>=80
+10074,Int insert lead in vent,>=80
+10074,Packed cell transfusion,>=80
+40310,Blepharorrhaphy,20-49
+40310,Bone marrow biopsy,20-49
+40310,Closed bronchial biopsy,20-49
+40310,Cont inv mec ven 96+ hrs,20-49
+40310,Cont inv mec ven <96 hrs,20-49
+40310,Entral infus nutrit sub,20-49
+40310,Incision of lung,20-49
+40310,Inject ca chemother NEC,20-49
+40310,Insert endotracheal tube,20-49
+40310,Insert vasc access dev,20-49
+40310,Other gastrostomy,20-49
+40310,Other myectomy,20-49
+40310,Radiotherapeut proc NEC,20-49
+40310,Spinal canal inject NEC,20-49
+40310,Spinal tap,20-49
+40310,Venous cath NEC,20-49
+10019,Cont inv mec ven <96 hrs,20-49
+10019,Hemodialysis,20-49
+10019,Infusion of vasopressor,20-49
+10019,Packed cell transfusion,20-49
+10067,Cardiopulm resuscita NOS,20-49
+10067,Closure liver lacerat,20-49
+10067,Cont inv mec ven <96 hrs,20-49
+10067,Insert endotracheal tube,20-49
+10067,Insert intercostal cath,20-49
+10067,Packed cell transfusion,20-49
+10067,Pericardiotomy,20-49
+10104,Electroencephalogram,50-79
+42075,Arterial catheterization,>=80
+42075,Closed bronchial biopsy,>=80
+42075,Cont inv mec ven 96+ hrs,>=80
+42075,Cont inv mec ven <96 hrs,>=80
+42075,Coronar arteriogr-2 cath,>=80
+42075,Entral infus nutrit sub,>=80
+42075,Inj/inf platelet inhibit,>=80
+42075,Ins nondrug elut cor st,>=80
+42075,Insert 1 vascular stent,>=80
+42075,Insert endotracheal tube,>=80
+42075,Lingual thyroid excision,>=80
+42075,PTCA,>=80
+42075,Peripheral nerve graft,>=80
+42075,Procedure-one vessel,>=80
+42075,Rt heart angiocardiogram,>=80
+42075,Rt/left heart card cath,>=80
+42075,Venous cath NEC,>=80
+10083,Egd with closed biopsy,>=80
+10083,Packed cell transfusion,>=80
+10083,Parent infus nutrit sub,>=80
+10083,Venous cath NEC,>=80
+10056,Packed cell transfusion,>=80
+43870,Venous cath NEC,>=80
+10040,Cont inv mec ven <96 hrs,>=80
+10040,Coronar arteriogr-2 cath,>=80
+10040,Inj/inf platelet inhibit,>=80
+10040,Ins drug-elut coronry st,>=80
+10040,Insert endotracheal tube,>=80
+10040,Rt heart angiocardiogram,>=80
+10040,Rt/left heart card cath,>=80
+10038,Arthrocentesis,>=80
+10038,Dx ultrasound-heart,>=80
+10038,Venous cath NEC,>=80
+43798,Closed bronchial biopsy,50-79
+43798,Cont inv mec ven 96+ hrs,50-79
+43798,Entral infus nutrit sub,50-79
+43798,Insert endotracheal tube,50-79
+43798,Insert intercostal cath,50-79
+43798,Percu abdominal drainage,50-79
+43798,Temporary tracheostomy,50-79
+43798,Thorac esophagogastrost,50-79
+43798,Total gastrectomy NEC,50-79
+40286,Packed cell transfusion,>=80
+40286,Remove impl device NEC,>=80
+40286,Total hip replacement,>=80
+40655,Venous cath NEC,>=80
+10076,Cont inv mec ven 96+ hrs,50-79
+10076,Insert endotracheal tube,50-79
+10076,Packed cell transfusion,50-79
+10076,Parent infus nutrit sub,50-79
+10076,Pulmon art wedge monitor,50-79
+10076,Venous cath NEC,50-79
+10032,Insert 2 vascular stents,>=80
+10032,Open red-int fix humerus,>=80
+10032,Packed cell transfusion,>=80
+10032,Periph nerve transposit,>=80
+10032,Venous cath NEC,>=80
+10098,Arterial catheterization,20-49
+10098,Other brain dx procedure,20-49
+10098,Skin closure NEC,20-49
+10098,Venous cath NEC,20-49
+44212,Cont inv mec ven 96+ hrs,20-49
+44212,Entral infus nutrit sub,20-49
+44212,Hemodialysis,20-49
+44212,Percu abdominal drainage,20-49
+44212,Ven cath renal dialysis,20-49
+44212,Venous cath NEC,20-49
+43748,Arthrocentesis,50-79
+43748,Venous cath NEC,50-79
+40177,Cont inv mec ven <96 hrs,>=80
+40177,Endosc retro cholangiopa,>=80
+40177,Insert endotracheal tube,>=80
+40177,Oth perc proc bil trct,>=80
+43881,Interruption vena cava,50-79
+43881,Packed cell transfusion,50-79
+43881,Radiotherapeut proc NEC,50-79
+43881,Sm bowel endoscopy NEC,50-79
+10119,Cholangiogram NEC,>=80
+10119,Cholecystectomy,>=80
+10119,Common duct exploration,>=80
+10119,Cont inv mec ven 96+ hrs,>=80
+10119,Endosc control gast hem,>=80
+10119,Infusion of vasopressor,>=80
+10119,Intraoper cholangiogram,>=80
+10119,Packed cell transfusion,>=80
+10119,Parent infus nutrit sub,>=80
+10119,Pulmon art wedge monitor,>=80
+10119,Serum transfusion NEC,>=80
+43746,Permanent colostomy,>=80
+42430,Arterial catheterization,>=80
+42430,Cont inv mec ven <96 hrs,>=80
+42430,Insert endotracheal tube,>=80
+44228,Packed cell transfusion,50-79
+44228,Venous cath NEC,50-79

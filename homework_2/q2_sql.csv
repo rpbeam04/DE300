@@ -1,0 +1,238 @@
+,age_group,short_title,n_procedures
+0,20-49,Venous cath NEC,9
+1,20-49,Entral infus nutrit sub,7
+2,20-49,Insert endotracheal tube,6
+3,20-49,Percu abdominal drainage,6
+4,20-49,Cont inv mec ven 96+ hrs,6
+5,20-49,Cont inv mec ven <96 hrs,4
+6,20-49,Parent infus nutrit sub,4
+7,20-49,Hemodialysis,4
+8,20-49,Packed cell transfusion,3
+9,20-49,Other brain dx procedure,2
+10,20-49,Spinal tap,2
+11,20-49,Closed bronchial biopsy,2
+12,20-49,Insert intercostal cath,2
+13,20-49,Incision of lung,2
+14,20-49,Closed liver biopsy,2
+15,20-49,Bone marrow biopsy,2
+16,20-49,Ven cath renal dialysis,2
+17,20-49,Oth endo proc oth vessel,1
+18,20-49,Closure liver lacerat,1
+19,20-49,Adm inhal nitric oxide,1
+20,20-49,Inject/infus nesiritide,1
+21,20-49,Serum transfusion NEC,1
+22,20-49,Platelet transfusion,1
+23,20-49,Transplant cadaver donor,1
+24,20-49,Spinal canal inject NEC,1
+25,20-49,Transfusion NEC,1
+26,20-49,Skin closure NEC,1
+27,20-49,Cardiopulm resuscita NOS,1
+28,20-49,Radiotherapeut proc NEC,1
+29,20-49,Blepharorrhaphy,1
+30,20-49,Other lacrimal gland ops,1
+31,20-49,Inject ca chemother NEC,1
+32,20-49,Contr abd arteriogrm NEC,1
+33,20-49,Insert vasc access dev,1
+34,20-49,Arterial catheterization,1
+35,20-49,Temporary tracheostomy,1
+36,20-49,Fiber-optic bronchoscopy,1
+37,20-49,Infusion of vasopressor,1
+38,20-49,Ins non-d-e non-cor stnt,1
+39,20-49,Angio oth non-coronary,1
+40,20-49,Pericardiotomy,1
+41,20-49,Other myectomy,1
+42,20-49,Endosc inser stent bile,1
+43,20-49,Sm bowel endoscopy NEC,1
+44,20-49,Liver transplant NEC,1
+45,20-49,Open liver biopsy,1
+46,20-49,Other gastrostomy,1
+47,20-49,Vasc proc revision NEC,1
+48,50-79,Venous cath NEC,26
+49,50-79,Entral infus nutrit sub,22
+50,50-79,Packed cell transfusion,13
+51,50-79,Cont inv mec ven <96 hrs,10
+52,50-79,Cont inv mec ven 96+ hrs,8
+53,50-79,Insert endotracheal tube,8
+54,50-79,Parent infus nutrit sub,8
+55,50-79,Arterial catheterization,5
+56,50-79,Percu abdominal drainage,5
+57,50-79,Sm bowel endoscopy NEC,5
+58,50-79,Hemodialysis,5
+59,50-79,Thoracentesis,5
+60,50-79,Closed bronchial biopsy,5
+61,50-79,Resp tract intubat NEC,4
+62,50-79,CV cath plcmt w guidance,3
+63,50-79,Total gastrectomy NEC,3
+64,50-79,Coronar arteriogr-2 cath,3
+65,50-79,Endosc destruc esoph les,3
+66,50-79,Permanent ileostomy NEC,3
+67,50-79,Dx ultrasound-heart,3
+68,50-79,Ven cath renal dialysis,3
+69,50-79,Electroencephalogram,2
+70,50-79,Extracorporeal circulat,2
+71,50-79,Reopen recent lap site,2
+72,50-79,Injection oxazolidinone,2
+73,50-79,Procedure-two vessels,2
+74,50-79,Ins non-d-e non-cor stnt,2
+75,50-79,Serum transfusion NEC,2
+76,50-79,Platelet transfusion,2
+77,50-79,Percu endosc gastrostomy,2
+78,50-79,Aortocor bypas-2 cor art,2
+79,50-79,Pericardiocentesis,2
+80,50-79,Replace gastrostomy tube,2
+81,50-79,Thorac drain pleurl cav,2
+82,50-79,1 int mam-cor art bypass,2
+83,50-79,Spinal tap,2
+84,50-79,Incision of lung,2
+85,50-79,Fiber-optic bronchoscopy,2
+86,50-79,Temporary tracheostomy,2
+87,50-79,Contr cerebr arteriogram,2
+88,50-79,Other bronchoscopy,2
+89,50-79,Rt/left heart card cath,2
+90,50-79,Angio oth non-coronary,2
+91,50-79,Oth extraoc mus-tend op,1
+92,50-79,Endo rem obs hd/neck ves,1
+93,50-79,Interruption vena cava,1
+94,50-79,Left heart cardiac cath,1
+95,50-79,Cath base invasv ep test,1
+96,50-79,Pulsation balloon implan,1
+97,50-79,Percu gastrojejunostomy,1
+98,50-79,Gastroenterostomy NEC,1
+99,50-79,Inj/inf platelet inhibit,1
+100,50-79,Flexible sigmoidoscopy,1
+101,50-79,Clos large bowel biopsy,1
+102,50-79,Lymphatic struct biopsy,1
+103,50-79,Revis ren dialysis shunt,1
+104,50-79,Esophagoscopy NEC,1
+105,50-79,Thorac esophagogastrost,1
+106,50-79,Suture of vein,1
+107,50-79,Lower limb endarterect,1
+108,50-79,Rt heart cardiac cath,1
+109,50-79,Non-invasive mech vent,1
+110,50-79,Radiotherapeut proc NEC,1
+111,50-79,Pericardiotomy,1
+112,50-79,Pulmon art wedge monitor,1
+113,50-79,Endo polpectomy lrge int,1
+114,50-79,Enterostomy NEC,1
+115,50-79,Close sm bowel fist NEC,1
+116,50-79,Inject/inf thrombo agent,1
+117,50-79,Rigid proctosigmoidoscpy,1
+118,50-79,Remov thor ther dev NEC,1
+119,50-79,Fasciotomy,1
+120,50-79,Replace trach tube,1
+121,50-79,Repl stent in bile duct,1
+122,50-79,Bronch/trach lavage NEC,1
+123,50-79,Op tot intr-abd colectmy,1
+124,50-79,Contrast myelogram,1
+125,50-79,Insert 1 vascular stent,1
+126,50-79,Peripheral nerve graft,1
+127,50-79,Other brain excision,1
+128,50-79,Inject/infuse NEC,1
+129,50-79,Inject antibiotic,1
+130,50-79,Contrast arteriogram NEC,1
+131,50-79,Egd with closed biopsy,1
+132,50-79,Contrast arteriogram-leg,1
+133,50-79,Endosc retro cholangiopa,1
+134,50-79,Other myectomy,1
+135,50-79,Inject into thorax cavit,1
+136,50-79,Infusion of vasopressor,1
+137,50-79,Mediastinoscopy,1
+138,50-79,Contr pulmon arteriogram,1
+139,50-79,Insert intercostal cath,1
+140,50-79,Cystoscopy NEC,1
+141,50-79,Cnt intraart bld gas mon,1
+142,50-79,Alcohol detoxification,1
+143,50-79,Bronchial dilation,1
+144,50-79,Partial shoulder replace,1
+145,50-79,Arthrocentesis,1
+146,50-79,Bronch/lung dx proc NEC,1
+147,50-79,Removal fb/dev from skin,1
+148,<=19,Venous cath NEC,2
+149,<=19,Temporary tracheostomy,1
+150,<=19,Packed cell transfusion,1
+151,<=19,Vertebral fx repair,1
+152,<=19,Percu endosc gastrostomy,1
+153,<=19,Skin closure NEC,1
+154,<=19,Closed bronchial biopsy,1
+155,<=19,Open reduc-int fix femur,1
+156,<=19,Entral infus nutrit sub,1
+157,<=19,Fus/refus 2-3 vertebrae,1
+158,<=19,Spinal tap,1
+159,<=19,Applic ext fix dev-femur,1
+160,<=19,Remove imp device-femur,1
+161,<=19,Incision of lung,1
+162,<=19,Atlas-axis fusion,1
+163,<=19,Ot cerv fusion post/post,1
+164,<=19,Cl fx reduc-femur,1
+165,<=19,Interruption vena cava,1
+166,<=19,Other skeletal traction,1
+167,>=80,Venous cath NEC,19
+168,>=80,Packed cell transfusion,13
+169,>=80,Insert endotracheal tube,8
+170,>=80,Cont inv mec ven <96 hrs,7
+171,>=80,Coronar arteriogr-2 cath,5
+172,>=80,Rt/left heart card cath,5
+173,>=80,Cont inv mec ven 96+ hrs,5
+174,>=80,Arterial catheterization,4
+175,>=80,Heart countershock NEC,3
+176,>=80,Non-invasive mech vent,3
+177,>=80,Serum transfusion NEC,3
+178,>=80,Int inser lead atri-vent,2
+179,>=80,Rt heart angiocardiogram,2
+180,>=80,Inj/inf platelet inhibit,2
+181,>=80,Infusion of vasopressor,2
+182,>=80,Ins nondrug elut cor st,2
+183,>=80,Closed bronchial biopsy,2
+184,>=80,Lingual thyroid excision,2
+185,>=80,Procedure-one vessel,2
+186,>=80,PTCA,2
+187,>=80,Platelet transfusion,2
+188,>=80,Incise cerebral meninges,2
+189,>=80,Dx ultrasound-heart,2
+190,>=80,Int insert dual-cham dev,2
+191,>=80,Parent infus nutrit sub,2
+192,>=80,Entral infus nutrit sub,2
+193,>=80,Remove impl device NEC,1
+194,>=80,Open red-int fix humerus,1
+195,>=80,Open reduc-int fix femur,1
+196,>=80,Total hip replacement,1
+197,>=80,Thoracentesis,1
+198,>=80,Opn/oth rep mtrl vlv-tis,1
+199,>=80,Lt heart angiocardiogram,1
+200,>=80,Periph nerve transposit,1
+201,>=80,Other perm tracheostomy,1
+202,>=80,Peripheral nerve graft,1
+203,>=80,Aortocor bypas-2 cor art,1
+204,>=80,Ex cereb meningeal les,1
+205,>=80,Insert intercostal cath,1
+206,>=80,Manual reduc rect prolap,1
+207,>=80,Remove ventricle shunt,1
+208,>=80,Nephroureterectomy,1
+209,>=80,Dilation of intestine,1
+210,>=80,Intraoper cholangiogram,1
+211,>=80,Cholangiogram NEC,1
+212,>=80,Periph nerve div NEC,1
+213,>=80,Arthrocentesis,1
+214,>=80,Permanent colostomy,1
+215,>=80,Replace indwelling cath,1
+216,>=80,Contr abd arteriogrm NEC,1
+217,>=80,Inject/infuse NEC,1
+218,>=80,Oth perc proc bil trct,1
+219,>=80,Common duct exploration,1
+220,>=80,Cholecystectomy,1
+221,>=80,Endosc retro cholangiopa,1
+222,>=80,Ins drug-elut coronry st,1
+223,>=80,Percu abdominal drainage,1
+224,>=80,Regional lymph node exc,1
+225,>=80,Larygnoscopy/tracheoscop,1
+226,>=80,Egd with closed biopsy,1
+227,>=80,Radiotherapeut proc NEC,1
+228,>=80,Endosc control gast hem,1
+229,>=80,Insert 3 vascular stents,1
+230,>=80,Insert 2 vascular stents,1
+231,>=80,Insert 1 vascular stent,1
+232,>=80,"Int insert 1-cham, non",1
+233,>=80,Int insert lead in vent,1
+234,>=80,Extracorporeal circulat,1
+235,>=80,Suture of vein,1
+236,>=80,Pulmon art wedge monitor,1
